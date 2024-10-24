@@ -1,0 +1,32 @@
+{
+  "lessons": [
+    {
+      "id": 1,
+      "title": "updated Lessons",
+      "description": "string",
+      "topics": [
+        "string"
+      ],
+      "content": [
+        {
+          "type": "string",
+          "data": "string"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "lessons2",
+      "description": "lessons2",
+      "topics": [
+        "lessons2"
+      ],
+      "content": [
+        {
+          "type": "lessons2",
+          "data": "lessons2"
+        }
+      ]
+    }
+  ]
+}

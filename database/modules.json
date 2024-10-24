@@ -1,0 +1,16 @@
+{
+  "modules": [
+    {
+      "id": 1,
+      "title": "Updated Module Title2",
+      "lessons": [
+        {
+          "id": 1
+        },
+        {
+          "id": 2
+        }
+      ]
+    }
+  ]
+}
