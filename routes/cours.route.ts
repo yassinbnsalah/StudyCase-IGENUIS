@@ -54,7 +54,7 @@ router.get("/cours", async (req: Request, res: Response) => {
 
 /**
  * @swagger
- * /cours/{id}:
+ * /api/cours/{id}:
  *   get:
  *     summary: Get a course by ID
  *     tags: [Courses]

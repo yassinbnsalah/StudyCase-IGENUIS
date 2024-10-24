@@ -11,6 +11,24 @@
           "id": 2
         }
       ]
+    },
+    {
+      "id": 2,
+      "title": "Ne CSS",
+      "lessons": [
+        {
+          "id": 3
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "CSS V1",
+      "lessons": [
+        {
+          "id": 4
+        }
+      ]
     }
   ]
 }

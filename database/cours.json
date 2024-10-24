@@ -7,6 +7,9 @@
       "modules": [
         {
           "id": 1
+        },
+        {
+          "id": 2
         }
       ]
     },
@@ -15,6 +18,16 @@
       "title": "Final Course Test",
       "description": "Description Texte",
       "modules": []
+    },
+    {
+      "id": 3,
+      "title": "test Course",
+      "description": "Entre a Description .",
+      "modules": [
+        {
+          "id": 3
+        }
+      ]
     }
   ]
 }
