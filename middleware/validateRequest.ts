@@ -18,5 +18,5 @@ export const validateRequest = (schema: Joi.ObjectSchema, property: keyof Reques
     } else {
       next();
     }
-  };
+  };        
 };
