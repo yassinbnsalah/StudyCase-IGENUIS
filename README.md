@@ -1,10 +1,10 @@
 
-# Express API Project
-# Project Overview
+# ⭐ Express API Project ⭐
+# ⭐ Project Overview
 This project is an Express.js API that serves as a backend for managing courses, lessons, and modules. It supports creating, updating, reading, and deleting resources, along with assigning lessons to modules. The API also integrates with Swagger for API documentation and uses JSON Server for data persistence.
 
 
-## Features
+## ⭐ Features
 
 - CRUD operations for Courses, Lessons, and Modules.
 - Integration with Swagger for automatic API documentation.
@@ -13,7 +13,7 @@ This project is an Express.js API that serves as a backend for managing courses,
 - Mocking and unit testing using Jest and Supertest.
 - Lightweight and easy-to-extend data storage using JSON Server.
 
-## Technologies 
+## ⭐ Technologies 
 - Node.js: JavaScript runtime environment.
 - Express.js: Fast, unopinionated, minimalist web framework for Node.js.
 - TypeScript: Typed superset of JavaScript.
@@ -21,7 +21,7 @@ This project is an Express.js API that serves as a backend for managing courses,
 - Swagger: API documentation and exploration tool.
 - Jest & Supertest: Testing framework for unit and integration tests.
 
-## Installation
+## ⭐ Installation
 
 Install StudyCase-IGENUIS  
 
@@ -41,7 +41,7 @@ Run Server
     npm run dev
 ```
 
-# Usage
+# ⭐ Usage
 Swagger Documentation
 
 Swagger is integrated into this project. You can access the API documentation by navigating to:
@@ -50,7 +50,7 @@ Swagger is integrated into this project. You can access the API documentation by
 ```
 
 
-# API Endpoints
+# ⭐ API Endpoints
 
 Below are some example routes and methods available in the API:
 
@@ -72,13 +72,13 @@ Lessons
 Modules
 
     GET /api-modules/modules - Get all modules.
-    POST /api-modules/modules - Create a new module.
+    POST /api-modules/modules/:id - Create a new module and assign it to a course
     GET /api-modules/modules/:id - Get a specific module by ID.
     PUT /api-modules/modules/:id - Update a specific module.
     DELETE /api-modules/modules/:id - Delete a specific module.
 
 
-# Tests
+# ⭐ Tests
 This project uses Jest for testing.
 
 Run all tests:
